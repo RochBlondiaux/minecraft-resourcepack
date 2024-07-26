@@ -1,0 +1,29 @@
+{
+  "name": "minecraft-resourcepack",
+  "version": "1.0.0",
+  "description": "Typescript resource pack format library",
+  "author": "Roch Blondiaux",
+  "license": "MIT",
+  "homepage": "https://github.com/RochBlondiaux/minecraft-resourcepack#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RochBlondiaux/minecraft-resourcepack"
+  },
+  "keywords": [
+    "minecraft",
+    "resourcepack",
+    "resource",
+    "pack",
+    "java",
+    "bedrock",
+    "format"
+  ],
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "/dist"
+  ],
+  "devDependencies": {
+    "typescript": "^5.5.4"
+  }
+}
